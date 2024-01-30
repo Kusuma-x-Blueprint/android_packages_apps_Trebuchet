@@ -30,4 +30,11 @@
     <!-- Hotseat QSB -->
     <string name="hotseat_qsb_pref_title">Tampilkan widget bilah pencarian</string>
     <string name="hotseat_qsb_pref_summary">Di bagian bawah layar utama</string>
+
+    <!-- Lock or unlock task -->
+    <string name="recent_task_option_lock_app">Tahan</string>
+    <string name="recent_task_option_unlock_app">Lepaskan</string>
+
+    <!-- Force stop task -->
+    <string name="recent_task_option_kill_app">Paksa berhenti</string>
 </resources>
